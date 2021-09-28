@@ -73,6 +73,13 @@ hr {
     padding-left: 0.2em;
     width: 70%;
 }
+.blog {
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+    text-align: justify;
+    padding-left: 0.2em;
+    width: 70%;
+    margin-left: 0.2em;
+}
 
 .policyP {
     text-align: left;
@@ -160,4 +167,12 @@ hr {
     .explainT {
         text-align: center;
     }
+
+    .blog {
+        font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+        text-align: justify;
+        padding-left: 0.2em;
+        width: 98%;
+    }
+ 
 }
